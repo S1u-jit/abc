@@ -1,0 +1,33 @@
+.top_bar{
+	background-color:#170035;
+}
+.social-icon{
+	margin-right: 5px;
+}
+.my_menu{
+ margin-top: 25px;
+}
+.my_menu .navbar-default{
+	background: none;
+	border: none;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #ffff;
+    background-color: #170035;
+}
+.my_menu .navbar-nav li a:hover{
+      background-color:#170035;
+	color:#ffff;	
+}
+
+}
+@media (max-width: 1200px) {
+	   .container-fluid .top_bar .container .row{
+	     display:n;
+	   }
+	
+		}
+.txtur{
+	background: radial-gradient(circle,#4146B1,#0B03B0);
+
+}
